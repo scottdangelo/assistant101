@@ -4,7 +4,7 @@ In this Learning-Thingy we'll start from scratch to build a chatbot using IBM Wa
 
 Here's an overview to explain what we'll accomplish:
 
-![video overview](https://ibm.box.com/shared/static/8rk5zczhxlheflp21uza8495lyxnbbat.mp4)
+[![video overview]](https://ibm.box.com/shared/static/8rk5zczhxlheflp21uza8495lyxnbbat.mp4)
 
 ## Getting Started with Watson Assistant
 
